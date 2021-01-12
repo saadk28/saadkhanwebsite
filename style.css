@@ -10,7 +10,7 @@
     height: 100vh;
     position: fixed;
     overflow: hidden;
-    background: linear-gradient(to right, #ff003b, #007eff);
+    background: linear-gradient(to right, #ff0000, #2700ff);
 }
 
 h1 {
